@@ -1,8 +1,8 @@
 // Mock data. Replace with your actual music files
 const musicData = [
-    { title: 'Track 1', file: 'track1.mp3' },
-    { title: 'Track 2', file: 'track2.mp3' },
-    { title: 'Track 3', file: 'track3.mp3' },
+    { title: 'Flu', file: 'audio/flu.wav' },
+    { title: 'Invasion', file: 'audio/invasion.wav' },
+    { title: 'Warforge', file: 'audio/warforge.wav' },
 ];
 
 window.onload = function() {
